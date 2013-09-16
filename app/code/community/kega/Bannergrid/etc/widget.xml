@@ -1,0 +1,6 @@
+<widgets>
+	<kega_bannergrid type="kega_bannergrid/bannergrid">
+		<name>Kega Bannergrid Widget</name>
+		<description type="desc">This wiget displays a grid of banners.</description>
+	</kega_bannergrid>
+</widgets>

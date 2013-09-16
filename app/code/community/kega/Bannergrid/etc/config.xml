@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<config>
+	<modules>
+		<Kega_Bannergrid>
+			<version>0.1.0</version>
+		</Kega_Bannergrid>
+	</modules>
+	<global>
+		<helpers>
+			<kega_bannergrid>
+				<class>Kega_Bannergrid_Helper</class>
+			</kega_bannergrid>
+		</helpers>
+		<blocks>
+			<kega_bannergrid>
+				<class>Kega_Bannergrid_Block</class>
+			</kega_bannergrid>
+		</blocks>
+	</global>
+</config>

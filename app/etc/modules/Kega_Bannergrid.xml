@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+	<modules>
+		<Kega_Bannergrid>
+			<active>true</active>
+			<codePool>community</codePool>
+		</Kega_Bannergrid>
+	</modules>
+</config>
